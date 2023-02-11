@@ -26,7 +26,7 @@ export default () => (
 
         {/* <Comp1 />
         <Comp2 />
-        <Primeiro>  </Primeiro> */}
+        <Primeiro>  Teste</Primeiro> */}
    </SafeAreaView>
 )
 
@@ -41,3 +41,4 @@ const style = StyleSheet.create({
     }
  
 })
+
